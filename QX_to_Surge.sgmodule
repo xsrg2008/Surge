@@ -4,7 +4,7 @@
 
 
 [Script]
-QX转换 = type=http-request,pattern=qx$,requires-body=1,max-size=0,script-path=QX转换.js
+QX转换 = type=http-request,pattern=qx$,requires-body=1,max-size=0,script-path= https://raw.githubusercontent.com/xsrg2008/Surge/main/QxtoSurge.js
 
 
 [MITM]
